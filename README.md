@@ -2,4 +2,4 @@
 tarea: programa a una interface, no a una implementación
 
 Diagrama UML:
-![Image](https://github.com/user-attachments/assets/4cdb94c1-b261-4a64-9b2f-7e97dd370d10)
+![Image](https://github.com/user-attachments/assets/cc5ef9c6-806b-40eb-8732-bb5a12e9fb04)
